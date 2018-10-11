@@ -19,4 +19,6 @@ public class LayoutGravityActivity extends Activity {
 		return true;
 	}
 
+
+
 }
