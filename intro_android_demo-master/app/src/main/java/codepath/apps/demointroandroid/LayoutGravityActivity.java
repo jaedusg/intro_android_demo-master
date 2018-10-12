@@ -18,7 +18,5 @@ public class LayoutGravityActivity extends Activity {
 		getMenuInflater().inflate(R.menu.activity_layout_gravity, menu);
 		return true;
 	}
-
-
-
+	//cambios2234234
 }
