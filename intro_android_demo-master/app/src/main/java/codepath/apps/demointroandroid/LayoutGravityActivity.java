@@ -19,4 +19,7 @@ public class LayoutGravityActivity extends Activity {
 		return true;
 	}
 	//cambios2234234
+	//add
+	//add2
+
 }
