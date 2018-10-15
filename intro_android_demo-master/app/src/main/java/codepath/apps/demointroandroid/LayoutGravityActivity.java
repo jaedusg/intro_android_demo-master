@@ -24,4 +24,9 @@ public class LayoutGravityActivity extends Activity {
 	//add3
 	//add4
 	//add5
+	//add6
+	//add7
+	//add8
+	//add9
+	//add10
 }
